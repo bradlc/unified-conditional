@@ -1,6 +1,6 @@
 {
   "name": "unified-conditional",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Apply unified plugins conditionally",
   "author": "Brad Cornes",
   "license": "MIT",
