@@ -1,4 +1,4 @@
-export default function unifiedConditional(...rules) {
+export function unifiedConditional(...rules) {
   return (...args) => {
     let filename = args[1]?.history?.[0]
 
